@@ -17,6 +17,6 @@ Windows Terminal Screenshot <br />
 
 ## Author
 
-- Website - [Adewale Mudasiru](https://techsbyte)
+- Website - [Adewale Mudasiru](https://techsbyte.com)
 - YouTube Channel - [@thetechsbyte](https://www.youtube.com/@thetechsbyte)
 - Github - [ademudasiru](https://github.com/adewalemudasiru)
