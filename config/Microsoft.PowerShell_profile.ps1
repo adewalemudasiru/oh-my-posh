@@ -2,7 +2,7 @@
 Clear-Host
 
 #OhMyPoshTheme
-oh-my-posh init pwsh --config 'C:\Users\Adewale Mudasiru\AppData\Local\Programs\oh-my-posh\themes\devterminal.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/adewalemudasiru/oh-my-posh/main/theme/devterminal.omp.json' | Invoke-Expression
 
 #Functions 
 function whereis ($command) {
