@@ -13,7 +13,7 @@ Windows Terminal Screenshot <br />
 ### Theme Links
 
 - Based Theme (clean-detailed): [Github](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/clean-detailed.omp.json)
-- Custom Theme (devterminal) : [Github](https://github.com/adewalemudasiru/oh-my-posh)
+- Custom Theme (devterminal) : [Github](https://raw.githubusercontent.com/adewalemudasiru/oh-my-posh/main/theme/devterminal.omp.json)
 
 ## Author
 
