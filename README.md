@@ -1,5 +1,5 @@
 # oh-my-posh
-Custom DevTerminal Oh-My-Posh Theme Based Off "clean-detailed" Theme.
+Custom DevTerminal Oh-My-Posh Theme Based Off JanDeDobbeleer's "clean-detailed" Theme.
 
 ## Overview
 
