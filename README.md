@@ -7,7 +7,7 @@ Custom DevTerminal Oh-My-Posh Theme Based Off JanDeDobbeleer's "clean-detailed" 
 
 devterminal snipppet
 ![Desktop Screenshot](./screenshots/oh-my-posh%20devterminal%20theme.png)
-Mobile Screenshot <br />
+Windows Terminal Screenshot <br />
 ![Mobile Screenshot](./screenshots/oh-my-posh%20devterminal%20windows.png)
 
 ### Theme Links
