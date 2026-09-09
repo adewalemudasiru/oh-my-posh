@@ -17,6 +17,4 @@ Windows Terminal Screenshot <br />
 
 ## Author
 
-- Website - [Tech news and blogs](https://techsbyte.com)
-- YouTube Channel - [@thetechsbyte](https://www.youtube.com/@thetechsbyte)
 - Github - [ademudasiru](https://github.com/adewalemudasiru)
